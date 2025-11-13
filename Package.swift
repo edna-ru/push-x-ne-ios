@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "EDNAPushXNE",
             url: "https://github.com/edna-ru/push-x-ne-ios/releases/download/1.3.1/edna-push-xne-1.3.1.zip",
-            checksum: "41162ccea64a218d3aac9a7e14522efd60c73d2bfc5f0bf111040e2e0e4c70b0"
+            checksum: "afc132a3a789cbdb7c1110aea14dfd49098838edbc2a6b9085ecfc0586770e69"
         ),
     ]
 )
